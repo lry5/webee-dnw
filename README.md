@@ -6,7 +6,7 @@ Tested by izobs <ivincentlin@gmail.com>
 
 __1.设备的ID__
 
-网蜂的`webee210`的 idVendor 是 04e8,idproductis 是1234。确认你开发板也是那个信息，可以通过:           
+网蜂的`webee210`的 idVendor 是 04e8,idproductis 是`1234`。确认你开发板也是那个信息，可以通过:           
     `sudo lsusb`                                        
 而webee210打印的是下面的信息:             
     `ID 04e8:1234 Samsung Electronics Co.,Ltd`     
